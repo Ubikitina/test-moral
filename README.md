@@ -225,7 +225,7 @@ El sistema deberá contener además:
 
 # Código comentado en Prolog
 
-Ver el código desarrollado en el archivo test_moral.pl.
+Ver el código desarrollado en el archivo [test_moral.pl](src/test_moral.pl).
 
 <a name="16"/>
 
